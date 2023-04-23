@@ -1,0 +1,35 @@
+[33mcommit ce0454f4c348585b9bfe077973090f4a4afe6de1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: ever <diaz.ev3r@gmail.com>
+Date:   Sun Apr 23 17:45:17 2023 -0400
+
+    Add roboto font link & set to body style to apply to whole page
+
+[33mcommit 86c89089142f8ce7d95207c47aa33af9d324a138[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ever <diaz.ev3r@gmail.com>
+Date:   Sun Apr 23 17:34:39 2023 -0400
+
+    Changed HTML element for the header logo
+
+[33mcommit 6af2ad8ff673c6d12fd3e385ba8de31aee0d7bcf[m
+Author: ever <diaz.ev3r@gmail.com>
+Date:   Sun Apr 23 17:32:57 2023 -0400
+
+    Added header logo
+
+[33mcommit 9412241030e08a2534ad007d7a23404bb763e8a7[m
+Author: ever <diaz.ev3r@gmail.com>
+Date:   Sun Apr 23 17:30:33 2023 -0400
+
+    Add navbar & link to CSS stylesheet
+
+[33mcommit 1491ae0f0b12714b593b57327791e1508613a250[m
+Author: ever <diaz.ev3r@gmail.com>
+Date:   Sun Apr 23 17:20:20 2023 -0400
+
+    Add beginning HTML
+
+[33mcommit eac346d251956650ef5f54e479b25deefec4942d[m
+Author: 3v3rdiaz <129006743+3v3rdiaz@users.noreply.github.com>
+Date:   Sun Apr 23 17:15:43 2023 -0400
+
+    Initial commit

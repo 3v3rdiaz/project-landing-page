@@ -38,6 +38,7 @@ ul {
     max-width: 1200px;
     margin: 0 auto;
     align-items: center;
+    justify-content: space-between;
 }
 
 .s1txt {
@@ -57,4 +58,10 @@ ul {
 button {
     background-color: #3882F6;
     border-radius: 25px;
+}
+
+.img {
+    width:auto;
+    height: auto;
+    object-fit: cover;
 }

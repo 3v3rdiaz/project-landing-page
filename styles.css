@@ -12,8 +12,8 @@ body {
 .navbar {
     display: flex;
     justify-content: space-between;
-    margin: 20px;
-    padding: 5px;
+    margin: 0 auto;
+    max-width: 1200px;
 }
 
 a {

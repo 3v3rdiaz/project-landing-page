@@ -31,3 +31,35 @@ ul {
 .logo {
     font-weight: 900;
 }
+
+.section1 {
+    display: flex;
+    height: 200px;
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.s1txt {
+    color: #E5E7EB;
+}
+
+.s1txt > h1{
+    font-size: 48px;
+    font-weight:bolder;
+    color: #F9FAF8;
+}
+
+.s1txt > p {
+    max-width: 500px;
+}
+
+button {
+    background-color: #3882F6;
+    border-radius: 25px;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}

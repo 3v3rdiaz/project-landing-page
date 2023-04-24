@@ -75,5 +75,21 @@ button {
     background-color: white;
 }
 
-.s2txt {
+.section3 {
+    display: flex;
+    color: #1F2937;
+    background-color: #E5E7EB;
+    height: 300px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.s3h3 {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.s3h4 {
+    font-weight: bolder;
 }

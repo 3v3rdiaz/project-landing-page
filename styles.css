@@ -57,7 +57,8 @@ ul {
 
 button {
     background-color: #3882F6;
-    border-radius: 25px;
+    border-radius: 15px;
+    border: none;
 }
 
 .img {
@@ -70,9 +71,45 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
     height: 500px;
     background-color: white;
+}
+
+.s2txt {
+    align-self: flex-start;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+}
+
+.b1container {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #3882F6;
+    border-radius: 25px;
+}
+
+.b2container {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #3882F6;
+    border-radius: 25px;
+}
+
+.b3container {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #3882F6;
+    border-radius: 25px;
+}
+
+.b4container {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #3882F6;
+    border-radius: 25px;
 }
 
 .section3 {

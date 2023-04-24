@@ -65,3 +65,15 @@ button {
     height: auto;
     object-fit: cover;
 }
+
+.section2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+    background-color: white;
+}
+
+.s2txt {
+}

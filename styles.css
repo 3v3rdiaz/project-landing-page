@@ -93,3 +93,43 @@ button {
 .s3h4 {
     font-weight: bolder;
 }
+
+.section4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    background-color: white;
+}
+
+.s4box {
+    display: flex;
+    border-radius: 25px;
+    height: 190px;
+    width: 700px;
+    background-color: #3882F6;
+    justify-content: space-around;
+}
+
+.s4btn {
+    background-color: white;
+    height: 50px;
+    align-self: center;
+    border: 1px white solid;
+}
+
+.s4txt {
+    color:#E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.s4txt > h1 {
+    align-self: flex-start;
+}
+
+.s4txt > h2 {
+    font-size: 18px;
+}

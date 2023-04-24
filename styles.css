@@ -133,3 +133,10 @@ button {
 .s4txt > h2 {
     font-size: 18px;
 }
+
+.footer {
+    height: 100px;
+    color: #E5E7EB;
+    font-size: 46px;
+    text-align: center;
+}
